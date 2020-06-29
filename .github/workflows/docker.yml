@@ -1,7 +1,6 @@
-name: Docker
+name: docker
 
 on:
-  
   schedule:
     - cron: "* * * * *"
       
