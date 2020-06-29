@@ -10,6 +10,9 @@ on:
     tags:
       - v*
 
+  schedule:
+    - cron: "0 2 * * *"
+
   # Run tests for any PRs.
   pull_request:
 
