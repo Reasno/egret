@@ -1,4 +1,4 @@
-# Egret/白鹭 Docker 
+# 白鹭(egret) Docker 
 
 ![Docker](https://github.com/Reasno/egret/workflows/Docker/badge.svg)
 
