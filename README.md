@@ -9,3 +9,7 @@ The Egret Engine is a HTML5 game engine. It provides modules to handle common ga
 ```bash
 docker pull reasno/egret:latest
 ```
+
+## Related Project
+
+https://github.com/egret-labs/egret-core
